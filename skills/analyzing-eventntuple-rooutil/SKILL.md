@@ -155,7 +155,7 @@ for (auto& track : tracks) {
 }
 ```
 
-See [PlotEntranceMomentum.C](../../EventNtuple/rooutil/examples/PlotEntranceMomentum.C) for a complete example.
+See [PlotEntranceMomentum.C](https://github.com/Mu2e/EventNtuple/blob/main/rooutil/examples/PlotEntranceMomentum.C) for a complete example.
 
 ---
 
@@ -261,11 +261,11 @@ for (int i = 0; i < util.GetNEvents(); ++i) {
 
 The output file is a valid EventNtuple readable by RooUtil again.
 
-See [CreateNtuple.C](../../EventNtuple/rooutil/examples/CreateNtuple.C).
+See [CreateNtuple.C](https://github.com/Mu2e/EventNtuple/blob/main/rooutil/examples/CreateNtuple.C).
 
 ### Per-track ntuple (different structure)
 
-See [CreateTrackNtuple.C](../../EventNtuple/rooutil/examples/CreateTrackNtuple.C).
+See [CreateTrackNtuple.C](https://github.com/Mu2e/EventNtuple/blob/main/rooutil/examples/CreateTrackNtuple.C).
 
 ---
 
@@ -308,10 +308,10 @@ ntuplehelper branchname leafname
 
 ## References
 
-- [RooUtil README](../../EventNtuple/rooutil/README.md) — quick reference for all classes and methods
-- [Tutorial: Analyzing with RooUtil](../../EventNtuple/tutorial/eventntuple-rooutil.md) — step-by-step tutorial with challenges
-- [Example macros](../../EventNtuple/rooutil/examples/) — complete working examples
+- [RooUtil README](https://github.com/Mu2e/EventNtuple/blob/main/rooutil/README.md) — quick reference for all classes and methods
+- [Tutorial: Analyzing with RooUtil](https://github.com/Mu2e/EventNtuple/blob/main/tutorial/eventntuple-rooutil.md) — step-by-step tutorial with challenges
+- [Example macros](https://github.com/Mu2e/EventNtuple/tree/main/rooutil/examples) — complete working examples
 - [Branch table](references/branches.md) — all EventNtuple branches and their leaf structs
-- [common_cuts.hh](../../EventNtuple/rooutil/inc/common_cuts.hh) — all pre-defined cut functions
+- [common_cuts.hh](https://github.com/Mu2e/EventNtuple/blob/main/rooutil/inc/common_cuts.hh) — all pre-defined cut functions
 - [Mu2e Analysis Tools Tutorial](https://mu2ewiki.fnal.gov/wiki/Analysis_Tools_Tutorial)
 - [#analysis-tools Slack channel](https://mu2e.slack.com/archives/analysis-tools)

@@ -5,7 +5,7 @@
 > ```bash
 > ntuplehelper --list-all-branches --export-to-md > doc/branches.md
 > ```
-> Source: [EventNtuple/doc/branches.md](../../../EventNtuple/doc/branches.md)
+> Source: [Mu2e/EventNtuple on GitHub](https://github.com/Mu2e/EventNtuple/blob/main/doc/branches.md)
 
 ---
 
